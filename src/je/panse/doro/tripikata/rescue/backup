@@ -1,9 +1,15 @@
 
+  CC>	The patient was seen at the GDS clinic 
+	for a routine checkup on 2025.05.05
   A>	
-  #  Td (Tetanus, Diphtheria)  [2025-05-04]
-  #  HBV vaccination #2/3  [2025-05-04]
-  #  Side Effect  [2025-05-04]
-  #  HBV vaccination #3/3  [2025-05-04]
-  #  Shingles Vaccine (Shingrix) #1/2  [2025-05-04]
-  #  Kovax Influ 4ga PF® vaccine [nip]  [2025-05-04]
-  #  Sanofi's VaxigripTetra® Vaccine(4가) [유독]  [2025-05-04]
+  #  Shingles Vaccine (Shingrix) #1/2  [2025-05-05]
+  #  HBV vaccination #3/3  [2025-05-05]
+    #  Prevena 13 (pneumococcal vaccine (PCV13))  [2025-05-05]Code: A03.0
+ # 이질이질균에 의한 시겔라증
+     : Shigellosis due to Shigella dysenteriae
+  Code: A02.9
+ # 상세불명의 살모넬라감염
+     : Salmonella infection, unspecified
+  #  Sanofi's VaxigripTetra® Vaccine(4가) [유독]  [2025-05-05]
+  P>	
+  #  GDS clinic Routine check  [ 2025.05.05 ]
