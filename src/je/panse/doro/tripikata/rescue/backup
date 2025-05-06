@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
   CC>	The patient was seen at the GDS clinic 
 	for a routine checkup on 2025.05.05
   A>	
@@ -13,3 +14,14 @@
   #  Sanofi's VaxigripTetra® Vaccine(4가) [유독]  [2025-05-05]
   P>	
   #  GDS clinic Routine check  [ 2025.05.05 ]
+=======
+  CC>   Hypercholesterolemia F/U
+  PI>
+    Chest pain (angina) or heart attack: [denied]
+  P>
+...Follow-up in the clinic in [ 3.0 ]-month
+...now [ well ] treated with current medication
+    continue with current dosages of meds
+  Comment>
+Limit sugary drinks, processed foods, and unhealthy fats.
+>>>>>>> refs/remotes/origin/feature
